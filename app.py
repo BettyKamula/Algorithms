@@ -46,6 +46,10 @@ def sorted_square_array(lst_of_nums):
     return output
 
 
+def tournament():
+    print('tournament')
+
+
 seq = [5, 6, 7, 8]
 sub_seq = [5, 5, 7, 8]
 listing = [3, 5, 2, 9, 5, 1, 7]
